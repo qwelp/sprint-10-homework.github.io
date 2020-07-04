@@ -1,7 +1,0 @@
-Ссылка на репозиторий:
-https://github.com/qwelp/sprint-10-homework.github.io
-
-
-Ссылка на форму:
-https://qwelp.github.io/sprint-10-homework.github.io/
-
